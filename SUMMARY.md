@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Stuff](README.md)
+* [Main](README.md)
 * [2020 Podcasts](podcasts.md)
 * [Backups](backups.md)
 
